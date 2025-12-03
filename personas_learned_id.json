@@ -1,0 +1,41 @@
+{
+  "你好，{PLAYER_NAME}！": {
+    "character_id": "你好，{PLAYER_NAME}！",
+    "target_lang": "id",
+    "tone": "Direct, enthusiastic, informal.",
+    "quirks": [
+      "Directly addresses the player by name."
+    ],
+    "pronouns": null,
+    "formality": "Informal",
+    "punctuation_habits": "Uses exclamation marks for direct address.",
+    "lexical_preferences": [
+      "{PLAYER_NAME}"
+    ],
+    "style_rules_en": [],
+    "style_rules_id": [
+      "Address the player directly using '{PLAYER_NAME}'.",
+      "Use exclamation marks for direct address."
+    ],
+    "notes": "Inferences are based on a single, short line."
+  },
+  "稳扎稳打，方能长久。": {
+    "character_id": "稳扎稳打，方能长久。",
+    "target_lang": "id",
+    "tone": "Wise, advisory, principled.",
+    "quirks": [],
+    "pronouns": null,
+    "formality": "Slightly formal, advisory.",
+    "punctuation_habits": "Ends sentences with a period.",
+    "lexical_preferences": [
+      "barulah",
+      "langgeng"
+    ],
+    "style_rules_en": [],
+    "style_rules_id": [
+      "Gunakan 'barulah' untuk penekanan atau konsekuensi.",
+      "Gunakan kosakata yang menunjukkan ketahanan atau keabadian, seperti 'langgeng'."
+    ],
+    "notes": "Analysis based on a single line, thus limited in scope."
+  }
+}
